@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ayotunde13
 - 👀 I’m interested in learning html, css, JavaScript, python, c++, object oriented programming, UI and sql
-- 🌱 I’m currently learning html and css
+- 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on all of the above listed interest
 - 📫 How to reach me +23409037426693
 
