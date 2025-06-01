@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I am Ogunsote Emmanuel Ayotunde from Nigeria, i am a graduate of Geology with specilization in Geotechnics, i am currect diving into the tech world by studying some programming languages and now studying software engineering at ALX Africa. </h1>
+<h1 align="center">Hi 👋, I am Ogunsote Emmanuel Ayotunde from Nigeria, i am a graduate of Geology with specilization in Geotechnics, i am currectly diving into the tech world by studying some programming languages and now studying software engineering at ALX Africa. </h1>
 <img align="right" alt="coding" width="400" src="https://i2.wp.com/i.giphy.com/media/26tn33aiTi1jkl6H6/giphy-downsized.gif?w=770&ssl=1">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eyoul&label=Profile%20views&color=0e75b6&style=flat" alt="eyoul" /> </p>
 
